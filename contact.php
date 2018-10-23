@@ -35,7 +35,7 @@
                     <a href="about.html" class="nav-link">About Me</a>
                 </li>
                 <li class="nav-item">
-                    <a href="work.html" class="nav-link">Portfolio</a>
+                    <a href="portfolio.html" class="nav-link">Portfolio</a>
                 </li>
                 <li class="nav-item current">
                     <a href="contact.php" class="nav-link">Contact</a>
@@ -61,9 +61,9 @@
                 <span class="text-secondary">Address:</span> Port St. Lucie, FL 34953
             </div>
         </div>
-        <form class="myForm" method="POST" action="contact3.php">
+        <form class="myForm" method="POST" action="contactEmail.php">
             <label for="customer_name">Name </label>
-            <input type="text" name="customer_name" id="customer_name" required>
+            <input type="text" name="name" id="name" required>
             <label for="email_address">Email </label>
             <input type="email" name="email_address" id="email_address">
             <label for="phone">Phone </label>
