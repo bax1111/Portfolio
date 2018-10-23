@@ -51,8 +51,8 @@
 
         <div class="boxes">
             <div>
-                <span class="text-secondary">Email:</span><a href="mailto:willyanicette1@gmail.com">
-                    willyanicette1@gmail.com</a>
+                <span class="text-secondary">Email:</span><a href="mailto:info@willyanicette.com">
+                    info@willyanicette.com</a>
             </div>
             <div>
                 <span class="text-secondary">Phone:</span> (561) 247-2618
