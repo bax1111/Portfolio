@@ -15,3 +15,4 @@ if (isset($_POST['submit'])) {
     header("Location: contact.php?mailsend");
 
 }
+?>
