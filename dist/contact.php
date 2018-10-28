@@ -65,14 +65,14 @@
             <label for="customer_name">Name </label>
             <input type="text" name="name" id="name" required>
             <label for="email_address">Email </label>
-            <input type="email" name="email_address" id="email_address">
-            <label for="phone">Phone </label>
-            <input type="tel" name="phone" id="phone">
+            <input type="email" name="email_address" id="email_address" required>
+            <label for="subject">Subject </label>
+            <input type="text" name="subject" id="subject" required>
             <div id="comment-box">
-                <label for="comments">Comments</label>
-                <textarea name="comments" id="comments" maxlength="500"></textarea>
+                <label for="comments">Message</label>
+                <textarea name="comments" id="comments" maxlength="500" required></textarea>
             </div>
-            <button>Submit</button>
+            <button type="submit" name="submit">Submit</button>
         </form>
     </main>
 
